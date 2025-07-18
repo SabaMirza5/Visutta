@@ -34,7 +34,7 @@ export default function VideoSection() {
       )}
 
       <div className="p-4 bg-black">
-        <h2 className="text-xl font-semibold uppercase text-white">
+        <h2 className="text-xl font-semibold uppercase text-white font-cinzel">
          Epic Dragon Quest: The Mythical Realms
         </h2>
         <p className="text-[#9CA3AF] pt-2 font-normal ">

@@ -16,7 +16,7 @@ export default function InfoSection() {
       />
       <div className="flex-1">
         <div className="flex items-center gap-2">
-          <h3 className="font-semibold text-white">DragonMaster_Kai</h3>
+          <h3 className="font-semibold text-white font-cinzel">DragonMaster_Kai</h3>
           <span className="bg-[#FFB70033] text-[#FFB700] border border-[#FFB70033] px-2 py-0.5 text-xs rounded-full font-semibold">
             LEGENDARY
           </span>
